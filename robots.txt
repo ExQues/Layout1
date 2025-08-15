@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lovablepro.com.br/sitemap.xml
+# Sitemap: sitemap.xml
 # ---------------------------
 # END YOAST BLOCK
